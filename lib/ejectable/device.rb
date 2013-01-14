@@ -6,7 +6,7 @@ module Ejectable
   class Device
 
     # @param [String] name
-    def initialize(name)
+    def initialize(name=DEFAULT_DEVICE_NAME)
       @name = name.dup.freeze
     end
 

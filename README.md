@@ -26,13 +26,13 @@ Use via method
 ```ruby
 include Ejectable
 
-eject_tray '/dev/cdrom' #=> true
+eject_tray
 ```
 
 Use device class
 
 ```ruby
-device = Ejectable::Device.new '/dev/cdrom'
+device = Ejectable::Device.new
 device.eject_tray
 ```
 
@@ -48,12 +48,6 @@ Requirements
 -------------
 
 * Ruby - [1.9.2 or later](http://travis-ci.org/#!/kachick/ejectable)
-
-Note
------
-
-Wrapping eject command now.
-And I guess runnable only Linux. :(
 
 Install
 -------
