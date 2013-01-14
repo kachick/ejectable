@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name          = 'ejectable'
-  gem.version       = '0.0.1'
+  gem.version       = '0.0.2'
   gem.authors       = ['Kenichi Kamiya']
   gem.email         = ['kachick1+ruby@gmail.com']
   gem.licenses      = ['MIT']
