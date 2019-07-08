@@ -47,7 +47,7 @@ end
 Requirements
 -------------
 
-* Ruby - [1.9.2 or later](http://travis-ci.org/#!/kachick/ejectable)
+* Ruby - [2.5 or later](http://travis-ci.org/#!/kachick/ejectable)
 
 Install
 -------
