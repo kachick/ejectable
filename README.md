@@ -1,6 +1,10 @@
 ejectable
 ============
 
+* ***This repository is archived***
+* ***No longer maintained***
+* ***All versions have been yanked from https://rubygems.org/ for releasing valuable namespace for others***
+
 Description
 -----------
 
@@ -47,39 +51,7 @@ end
 Requirements
 -------------
 
-* Ruby - [2.5 or later](http://travis-ci.org/#!/kachick/ejectable)
-
-Install
--------
-
-git-repos
-
-```bash
-git clone https://github.com/kachick/ejectable.git
-gem build ejectable.gemspec
-gem install ./ejectable
-```
-
-rubygems.org
-
-```bash
-gem install ejectable
-```
-
-Build Status
--------------
-
-[![Build Status](https://secure.travis-ci.org/kachick/ejectable.png)](http://travis-ci.org/kachick/ejectable)
-
-Link
-----
-
-* [Home](http://kachick.github.com/ejectable)
-* [code](https://github.com/kachick/ejectable)
-* [API](http://kachick.github.com/ejectable/yard/frames.html)
-* [issues](https://github.com/kachick/ejectable/issues)
-* [CI](http://travis-ci.org/#!/kachick/ejectable)
-* [gem](https://rubygems.org/gems/ejectable)
+* Ruby - 2.5 or later
 
 License
 --------
